@@ -220,8 +220,8 @@ footer {
   background: var(--footer-bg);
   color: var(--footer-text);
   font-size: 0.9rem;
-  border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
   transition: background 0.3s, color 0.3s;
 }
 
